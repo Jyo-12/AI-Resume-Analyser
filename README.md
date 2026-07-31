@@ -268,7 +268,7 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-**Your Name**
+**Jyothsna Raghunath**
 
 Data Science | Machine Learning | Artificial Intelligence
 
