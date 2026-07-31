@@ -1,0 +1,499 @@
+Skill_ID,Skill_Name,Category,Difficulty_Level,Demand_Level,Technology_Type,Industry,Importance_Score
+SK0001,Python,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",61
+SK0002,Python,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",62
+SK0003,Python,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",63
+SK0004,Python,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",64
+SK0005,Python,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",65
+SK0006,Python,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",66
+SK0007,Java,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",67
+SK0008,Java,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",68
+SK0009,Java,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",69
+SK0010,Java,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",70
+SK0011,Java,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",71
+SK0012,Java,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",72
+SK0013,C,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",73
+SK0014,C,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",74
+SK0015,C,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",75
+SK0016,C,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",76
+SK0017,C,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",77
+SK0018,C,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",78
+SK0019,C++,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",79
+SK0020,C++,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",80
+SK0021,C++,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",81
+SK0022,C++,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",82
+SK0023,C++,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",83
+SK0024,C++,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",84
+SK0025,C#,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",85
+SK0026,C#,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",86
+SK0027,C#,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",87
+SK0028,C#,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",88
+SK0029,C#,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",89
+SK0030,C#,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",90
+SK0031,R,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",91
+SK0032,R,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",92
+SK0033,R,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",93
+SK0034,R,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",94
+SK0035,R,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",95
+SK0036,R,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",96
+SK0037,JavaScript,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",97
+SK0038,JavaScript,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",98
+SK0039,JavaScript,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",99
+SK0040,JavaScript,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",100
+SK0041,JavaScript,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",60
+SK0042,JavaScript,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",61
+SK0043,TypeScript,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",62
+SK0044,TypeScript,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",63
+SK0045,TypeScript,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",64
+SK0046,TypeScript,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",65
+SK0047,TypeScript,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",66
+SK0048,TypeScript,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",67
+SK0049,Go,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",68
+SK0050,Go,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",69
+SK0051,Go,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",70
+SK0052,Go,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",71
+SK0053,Go,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",72
+SK0054,Go,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",73
+SK0055,PHP,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",74
+SK0056,PHP,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",75
+SK0057,PHP,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",76
+SK0058,PHP,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",77
+SK0059,PHP,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",78
+SK0060,PHP,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",79
+SK0061,Kotlin,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",80
+SK0062,Kotlin,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",81
+SK0063,Kotlin,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",82
+SK0064,Kotlin,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",83
+SK0065,Kotlin,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",84
+SK0066,Kotlin,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",85
+SK0067,Swift,Programming Languages,Beginner,Medium,Technical,"IT, AI & Data Science",86
+SK0068,Swift,Programming Languages,Intermediate,Medium,Technical,"IT, AI & Data Science",87
+SK0069,Swift,Programming Languages,Advanced,Medium,Technical,"IT, AI & Data Science",88
+SK0070,Swift,Programming Languages,Expert,High,Technical,"IT, AI & Data Science",89
+SK0071,Swift,Programming Languages,Industry Standard,High,Technical,"IT, AI & Data Science",90
+SK0072,Swift,Programming Languages,High Demand,High,Technical,"IT, AI & Data Science",91
+SK0073,Pandas,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",92
+SK0074,Pandas,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",93
+SK0075,Pandas,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",94
+SK0076,Pandas,Data Science,Expert,High,Technical,"IT, AI & Data Science",95
+SK0077,Pandas,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",96
+SK0078,Pandas,Data Science,High Demand,High,Technical,"IT, AI & Data Science",97
+SK0079,NumPy,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",98
+SK0080,NumPy,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",99
+SK0081,NumPy,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",100
+SK0082,NumPy,Data Science,Expert,High,Technical,"IT, AI & Data Science",60
+SK0083,NumPy,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",61
+SK0084,NumPy,Data Science,High Demand,High,Technical,"IT, AI & Data Science",62
+SK0085,Scikit-learn,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",63
+SK0086,Scikit-learn,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",64
+SK0087,Scikit-learn,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",65
+SK0088,Scikit-learn,Data Science,Expert,High,Technical,"IT, AI & Data Science",66
+SK0089,Scikit-learn,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",67
+SK0090,Scikit-learn,Data Science,High Demand,High,Technical,"IT, AI & Data Science",68
+SK0091,TensorFlow,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",69
+SK0092,TensorFlow,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",70
+SK0093,TensorFlow,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",71
+SK0094,TensorFlow,Data Science,Expert,High,Technical,"IT, AI & Data Science",72
+SK0095,TensorFlow,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",73
+SK0096,TensorFlow,Data Science,High Demand,High,Technical,"IT, AI & Data Science",74
+SK0097,PyTorch,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",75
+SK0098,PyTorch,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",76
+SK0099,PyTorch,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",77
+SK0100,PyTorch,Data Science,Expert,High,Technical,"IT, AI & Data Science",78
+SK0101,PyTorch,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",79
+SK0102,PyTorch,Data Science,High Demand,High,Technical,"IT, AI & Data Science",80
+SK0103,XGBoost,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",81
+SK0104,XGBoost,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",82
+SK0105,XGBoost,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",83
+SK0106,XGBoost,Data Science,Expert,High,Technical,"IT, AI & Data Science",84
+SK0107,XGBoost,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",85
+SK0108,XGBoost,Data Science,High Demand,High,Technical,"IT, AI & Data Science",86
+SK0109,LightGBM,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",87
+SK0110,LightGBM,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",88
+SK0111,LightGBM,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",89
+SK0112,LightGBM,Data Science,Expert,High,Technical,"IT, AI & Data Science",90
+SK0113,LightGBM,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",91
+SK0114,LightGBM,Data Science,High Demand,High,Technical,"IT, AI & Data Science",92
+SK0115,EDA,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",93
+SK0116,EDA,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",94
+SK0117,EDA,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",95
+SK0118,EDA,Data Science,Expert,High,Technical,"IT, AI & Data Science",96
+SK0119,EDA,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",97
+SK0120,EDA,Data Science,High Demand,High,Technical,"IT, AI & Data Science",98
+SK0121,Feature Engineering,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",99
+SK0122,Feature Engineering,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",100
+SK0123,Feature Engineering,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",60
+SK0124,Feature Engineering,Data Science,Expert,High,Technical,"IT, AI & Data Science",61
+SK0125,Feature Engineering,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",62
+SK0126,Feature Engineering,Data Science,High Demand,High,Technical,"IT, AI & Data Science",63
+SK0127,Statistics,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",64
+SK0128,Statistics,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",65
+SK0129,Statistics,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",66
+SK0130,Statistics,Data Science,Expert,High,Technical,"IT, AI & Data Science",67
+SK0131,Statistics,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",68
+SK0132,Statistics,Data Science,High Demand,High,Technical,"IT, AI & Data Science",69
+SK0133,Machine Learning,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",70
+SK0134,Machine Learning,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",71
+SK0135,Machine Learning,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",72
+SK0136,Machine Learning,Data Science,Expert,High,Technical,"IT, AI & Data Science",73
+SK0137,Machine Learning,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",74
+SK0138,Machine Learning,Data Science,High Demand,High,Technical,"IT, AI & Data Science",75
+SK0139,Deep Learning,Data Science,Beginner,Medium,Technical,"IT, AI & Data Science",76
+SK0140,Deep Learning,Data Science,Intermediate,Medium,Technical,"IT, AI & Data Science",77
+SK0141,Deep Learning,Data Science,Advanced,Medium,Technical,"IT, AI & Data Science",78
+SK0142,Deep Learning,Data Science,Expert,High,Technical,"IT, AI & Data Science",79
+SK0143,Deep Learning,Data Science,Industry Standard,High,Technical,"IT, AI & Data Science",80
+SK0144,Deep Learning,Data Science,High Demand,High,Technical,"IT, AI & Data Science",81
+SK0145,spaCy,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",82
+SK0146,spaCy,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",83
+SK0147,spaCy,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",84
+SK0148,spaCy,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",85
+SK0149,spaCy,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",86
+SK0150,spaCy,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",87
+SK0151,NLTK,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",88
+SK0152,NLTK,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",89
+SK0153,NLTK,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",90
+SK0154,NLTK,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",91
+SK0155,NLTK,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",92
+SK0156,NLTK,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",93
+SK0157,Transformers,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",94
+SK0158,Transformers,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",95
+SK0159,Transformers,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",96
+SK0160,Transformers,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",97
+SK0161,Transformers,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",98
+SK0162,Transformers,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",99
+SK0163,Hugging Face,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",100
+SK0164,Hugging Face,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",60
+SK0165,Hugging Face,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",61
+SK0166,Hugging Face,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",62
+SK0167,Hugging Face,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",63
+SK0168,Hugging Face,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",64
+SK0169,LangChain,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",65
+SK0170,LangChain,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",66
+SK0171,LangChain,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",67
+SK0172,LangChain,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",68
+SK0173,LangChain,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",69
+SK0174,LangChain,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",70
+SK0175,Prompt Engineering,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",71
+SK0176,Prompt Engineering,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",72
+SK0177,Prompt Engineering,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",73
+SK0178,Prompt Engineering,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",74
+SK0179,Prompt Engineering,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",75
+SK0180,Prompt Engineering,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",76
+SK0181,LLMs,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",77
+SK0182,LLMs,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",78
+SK0183,LLMs,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",79
+SK0184,LLMs,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",80
+SK0185,LLMs,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",81
+SK0186,LLMs,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",82
+SK0187,RAG,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",83
+SK0188,RAG,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",84
+SK0189,RAG,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",85
+SK0190,RAG,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",86
+SK0191,RAG,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",87
+SK0192,RAG,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",88
+SK0193,BERT,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",89
+SK0194,BERT,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",90
+SK0195,BERT,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",91
+SK0196,BERT,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",92
+SK0197,BERT,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",93
+SK0198,BERT,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",94
+SK0199,OpenAI API,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",95
+SK0200,OpenAI API,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",96
+SK0201,OpenAI API,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",97
+SK0202,OpenAI API,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",98
+SK0203,OpenAI API,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",99
+SK0204,OpenAI API,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",100
+SK0205,Gemini API,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",60
+SK0206,Gemini API,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",61
+SK0207,Gemini API,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",62
+SK0208,Gemini API,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",63
+SK0209,Gemini API,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",64
+SK0210,Gemini API,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",65
+SK0211,Sentence Transformers,NLP & AI,Beginner,Medium,Technical,"IT, AI & Data Science",66
+SK0212,Sentence Transformers,NLP & AI,Intermediate,Medium,Technical,"IT, AI & Data Science",67
+SK0213,Sentence Transformers,NLP & AI,Advanced,Medium,Technical,"IT, AI & Data Science",68
+SK0214,Sentence Transformers,NLP & AI,Expert,High,Technical,"IT, AI & Data Science",69
+SK0215,Sentence Transformers,NLP & AI,Industry Standard,High,Technical,"IT, AI & Data Science",70
+SK0216,Sentence Transformers,NLP & AI,High Demand,High,Technical,"IT, AI & Data Science",71
+SK0217,SQL,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",72
+SK0218,SQL,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",73
+SK0219,SQL,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",74
+SK0220,SQL,Databases,Expert,High,Technical,"IT, AI & Data Science",75
+SK0221,SQL,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",76
+SK0222,SQL,Databases,High Demand,High,Technical,"IT, AI & Data Science",77
+SK0223,MySQL,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",78
+SK0224,MySQL,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",79
+SK0225,MySQL,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",80
+SK0226,MySQL,Databases,Expert,High,Technical,"IT, AI & Data Science",81
+SK0227,MySQL,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",82
+SK0228,MySQL,Databases,High Demand,High,Technical,"IT, AI & Data Science",83
+SK0229,PostgreSQL,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",84
+SK0230,PostgreSQL,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",85
+SK0231,PostgreSQL,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",86
+SK0232,PostgreSQL,Databases,Expert,High,Technical,"IT, AI & Data Science",87
+SK0233,PostgreSQL,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",88
+SK0234,PostgreSQL,Databases,High Demand,High,Technical,"IT, AI & Data Science",89
+SK0235,MongoDB,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",90
+SK0236,MongoDB,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",91
+SK0237,MongoDB,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",92
+SK0238,MongoDB,Databases,Expert,High,Technical,"IT, AI & Data Science",93
+SK0239,MongoDB,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",94
+SK0240,MongoDB,Databases,High Demand,High,Technical,"IT, AI & Data Science",95
+SK0241,SQLite,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",96
+SK0242,SQLite,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",97
+SK0243,SQLite,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",98
+SK0244,SQLite,Databases,Expert,High,Technical,"IT, AI & Data Science",99
+SK0245,SQLite,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",100
+SK0246,SQLite,Databases,High Demand,High,Technical,"IT, AI & Data Science",60
+SK0247,Oracle,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",61
+SK0248,Oracle,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",62
+SK0249,Oracle,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",63
+SK0250,Oracle,Databases,Expert,High,Technical,"IT, AI & Data Science",64
+SK0251,Oracle,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",65
+SK0252,Oracle,Databases,High Demand,High,Technical,"IT, AI & Data Science",66
+SK0253,Redis,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",67
+SK0254,Redis,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",68
+SK0255,Redis,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",69
+SK0256,Redis,Databases,Expert,High,Technical,"IT, AI & Data Science",70
+SK0257,Redis,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",71
+SK0258,Redis,Databases,High Demand,High,Technical,"IT, AI & Data Science",72
+SK0259,Firebase,Databases,Beginner,Medium,Technical,"IT, AI & Data Science",73
+SK0260,Firebase,Databases,Intermediate,Medium,Technical,"IT, AI & Data Science",74
+SK0261,Firebase,Databases,Advanced,Medium,Technical,"IT, AI & Data Science",75
+SK0262,Firebase,Databases,Expert,High,Technical,"IT, AI & Data Science",76
+SK0263,Firebase,Databases,Industry Standard,High,Technical,"IT, AI & Data Science",77
+SK0264,Firebase,Databases,High Demand,High,Technical,"IT, AI & Data Science",78
+SK0265,AWS,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",79
+SK0266,AWS,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",80
+SK0267,AWS,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",81
+SK0268,AWS,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",82
+SK0269,AWS,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",83
+SK0270,AWS,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",84
+SK0271,Azure,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",85
+SK0272,Azure,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",86
+SK0273,Azure,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",87
+SK0274,Azure,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",88
+SK0275,Azure,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",89
+SK0276,Azure,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",90
+SK0277,GCP,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",91
+SK0278,GCP,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",92
+SK0279,GCP,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",93
+SK0280,GCP,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",94
+SK0281,GCP,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",95
+SK0282,GCP,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",96
+SK0283,Docker,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",97
+SK0284,Docker,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",98
+SK0285,Docker,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",99
+SK0286,Docker,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",100
+SK0287,Docker,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",60
+SK0288,Docker,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",61
+SK0289,Kubernetes,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",62
+SK0290,Kubernetes,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",63
+SK0291,Kubernetes,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",64
+SK0292,Kubernetes,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",65
+SK0293,Kubernetes,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",66
+SK0294,Kubernetes,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",67
+SK0295,Git,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",68
+SK0296,Git,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",69
+SK0297,Git,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",70
+SK0298,Git,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",71
+SK0299,Git,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",72
+SK0300,Git,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",73
+SK0301,GitHub,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",74
+SK0302,GitHub,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",75
+SK0303,GitHub,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",76
+SK0304,GitHub,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",77
+SK0305,GitHub,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",78
+SK0306,GitHub,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",79
+SK0307,CI/CD,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",80
+SK0308,CI/CD,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",81
+SK0309,CI/CD,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",82
+SK0310,CI/CD,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",83
+SK0311,CI/CD,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",84
+SK0312,CI/CD,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",85
+SK0313,Terraform,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",86
+SK0314,Terraform,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",87
+SK0315,Terraform,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",88
+SK0316,Terraform,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",89
+SK0317,Terraform,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",90
+SK0318,Terraform,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",91
+SK0319,Linux,Cloud & DevOps,Beginner,Medium,Technical,"IT, AI & Data Science",92
+SK0320,Linux,Cloud & DevOps,Intermediate,Medium,Technical,"IT, AI & Data Science",93
+SK0321,Linux,Cloud & DevOps,Advanced,Medium,Technical,"IT, AI & Data Science",94
+SK0322,Linux,Cloud & DevOps,Expert,High,Technical,"IT, AI & Data Science",95
+SK0323,Linux,Cloud & DevOps,Industry Standard,High,Technical,"IT, AI & Data Science",96
+SK0324,Linux,Cloud & DevOps,High Demand,High,Technical,"IT, AI & Data Science",97
+SK0325,Power BI,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",98
+SK0326,Power BI,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",99
+SK0327,Power BI,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",100
+SK0328,Power BI,Visualization,Expert,High,Technical,"IT, AI & Data Science",60
+SK0329,Power BI,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",61
+SK0330,Power BI,Visualization,High Demand,High,Technical,"IT, AI & Data Science",62
+SK0331,Tableau,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",63
+SK0332,Tableau,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",64
+SK0333,Tableau,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",65
+SK0334,Tableau,Visualization,Expert,High,Technical,"IT, AI & Data Science",66
+SK0335,Tableau,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",67
+SK0336,Tableau,Visualization,High Demand,High,Technical,"IT, AI & Data Science",68
+SK0337,Excel,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",69
+SK0338,Excel,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",70
+SK0339,Excel,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",71
+SK0340,Excel,Visualization,Expert,High,Technical,"IT, AI & Data Science",72
+SK0341,Excel,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",73
+SK0342,Excel,Visualization,High Demand,High,Technical,"IT, AI & Data Science",74
+SK0343,Matplotlib,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",75
+SK0344,Matplotlib,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",76
+SK0345,Matplotlib,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",77
+SK0346,Matplotlib,Visualization,Expert,High,Technical,"IT, AI & Data Science",78
+SK0347,Matplotlib,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",79
+SK0348,Matplotlib,Visualization,High Demand,High,Technical,"IT, AI & Data Science",80
+SK0349,Seaborn,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",81
+SK0350,Seaborn,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",82
+SK0351,Seaborn,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",83
+SK0352,Seaborn,Visualization,Expert,High,Technical,"IT, AI & Data Science",84
+SK0353,Seaborn,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",85
+SK0354,Seaborn,Visualization,High Demand,High,Technical,"IT, AI & Data Science",86
+SK0355,Plotly,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",87
+SK0356,Plotly,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",88
+SK0357,Plotly,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",89
+SK0358,Plotly,Visualization,Expert,High,Technical,"IT, AI & Data Science",90
+SK0359,Plotly,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",91
+SK0360,Plotly,Visualization,High Demand,High,Technical,"IT, AI & Data Science",92
+SK0361,DAX,Visualization,Beginner,Medium,Technical,"IT, AI & Data Science",93
+SK0362,DAX,Visualization,Intermediate,Medium,Technical,"IT, AI & Data Science",94
+SK0363,DAX,Visualization,Advanced,Medium,Technical,"IT, AI & Data Science",95
+SK0364,DAX,Visualization,Expert,High,Technical,"IT, AI & Data Science",96
+SK0365,DAX,Visualization,Industry Standard,High,Technical,"IT, AI & Data Science",97
+SK0366,DAX,Visualization,High Demand,High,Technical,"IT, AI & Data Science",98
+SK0367,HTML,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",99
+SK0368,HTML,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",100
+SK0369,HTML,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",60
+SK0370,HTML,Web Development,Expert,High,Technical,"IT, AI & Data Science",61
+SK0371,HTML,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",62
+SK0372,HTML,Web Development,High Demand,High,Technical,"IT, AI & Data Science",63
+SK0373,CSS,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",64
+SK0374,CSS,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",65
+SK0375,CSS,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",66
+SK0376,CSS,Web Development,Expert,High,Technical,"IT, AI & Data Science",67
+SK0377,CSS,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",68
+SK0378,CSS,Web Development,High Demand,High,Technical,"IT, AI & Data Science",69
+SK0379,React,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",70
+SK0380,React,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",71
+SK0381,React,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",72
+SK0382,React,Web Development,Expert,High,Technical,"IT, AI & Data Science",73
+SK0383,React,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",74
+SK0384,React,Web Development,High Demand,High,Technical,"IT, AI & Data Science",75
+SK0385,Next.js,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",76
+SK0386,Next.js,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",77
+SK0387,Next.js,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",78
+SK0388,Next.js,Web Development,Expert,High,Technical,"IT, AI & Data Science",79
+SK0389,Next.js,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",80
+SK0390,Next.js,Web Development,High Demand,High,Technical,"IT, AI & Data Science",81
+SK0391,Flask,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",82
+SK0392,Flask,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",83
+SK0393,Flask,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",84
+SK0394,Flask,Web Development,Expert,High,Technical,"IT, AI & Data Science",85
+SK0395,Flask,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",86
+SK0396,Flask,Web Development,High Demand,High,Technical,"IT, AI & Data Science",87
+SK0397,FastAPI,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",88
+SK0398,FastAPI,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",89
+SK0399,FastAPI,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",90
+SK0400,FastAPI,Web Development,Expert,High,Technical,"IT, AI & Data Science",91
+SK0401,FastAPI,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",92
+SK0402,FastAPI,Web Development,High Demand,High,Technical,"IT, AI & Data Science",93
+SK0403,Django,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",94
+SK0404,Django,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",95
+SK0405,Django,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",96
+SK0406,Django,Web Development,Expert,High,Technical,"IT, AI & Data Science",97
+SK0407,Django,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",98
+SK0408,Django,Web Development,High Demand,High,Technical,"IT, AI & Data Science",99
+SK0409,Node.js,Web Development,Beginner,Medium,Technical,"IT, AI & Data Science",100
+SK0410,Node.js,Web Development,Intermediate,Medium,Technical,"IT, AI & Data Science",60
+SK0411,Node.js,Web Development,Advanced,Medium,Technical,"IT, AI & Data Science",61
+SK0412,Node.js,Web Development,Expert,High,Technical,"IT, AI & Data Science",62
+SK0413,Node.js,Web Development,Industry Standard,High,Technical,"IT, AI & Data Science",63
+SK0414,Node.js,Web Development,High Demand,High,Technical,"IT, AI & Data Science",64
+SK0415,Spark,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",65
+SK0416,Spark,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",66
+SK0417,Spark,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",67
+SK0418,Spark,Big Data,Expert,High,Technical,"IT, AI & Data Science",68
+SK0419,Spark,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",69
+SK0420,Spark,Big Data,High Demand,High,Technical,"IT, AI & Data Science",70
+SK0421,PySpark,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",71
+SK0422,PySpark,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",72
+SK0423,PySpark,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",73
+SK0424,PySpark,Big Data,Expert,High,Technical,"IT, AI & Data Science",74
+SK0425,PySpark,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",75
+SK0426,PySpark,Big Data,High Demand,High,Technical,"IT, AI & Data Science",76
+SK0427,Hadoop,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",77
+SK0428,Hadoop,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",78
+SK0429,Hadoop,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",79
+SK0430,Hadoop,Big Data,Expert,High,Technical,"IT, AI & Data Science",80
+SK0431,Hadoop,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",81
+SK0432,Hadoop,Big Data,High Demand,High,Technical,"IT, AI & Data Science",82
+SK0433,Hive,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",83
+SK0434,Hive,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",84
+SK0435,Hive,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",85
+SK0436,Hive,Big Data,Expert,High,Technical,"IT, AI & Data Science",86
+SK0437,Hive,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",87
+SK0438,Hive,Big Data,High Demand,High,Technical,"IT, AI & Data Science",88
+SK0439,Kafka,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",89
+SK0440,Kafka,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",90
+SK0441,Kafka,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",91
+SK0442,Kafka,Big Data,Expert,High,Technical,"IT, AI & Data Science",92
+SK0443,Kafka,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",93
+SK0444,Kafka,Big Data,High Demand,High,Technical,"IT, AI & Data Science",94
+SK0445,Airflow,Big Data,Beginner,Medium,Technical,"IT, AI & Data Science",95
+SK0446,Airflow,Big Data,Intermediate,Medium,Technical,"IT, AI & Data Science",96
+SK0447,Airflow,Big Data,Advanced,Medium,Technical,"IT, AI & Data Science",97
+SK0448,Airflow,Big Data,Expert,High,Technical,"IT, AI & Data Science",98
+SK0449,Airflow,Big Data,Industry Standard,High,Technical,"IT, AI & Data Science",99
+SK0450,Airflow,Big Data,High Demand,High,Technical,"IT, AI & Data Science",100
+SK0451,Communication,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",60
+SK0452,Communication,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",61
+SK0453,Communication,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",62
+SK0454,Communication,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",63
+SK0455,Communication,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",64
+SK0456,Communication,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",65
+SK0457,Leadership,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",66
+SK0458,Leadership,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",67
+SK0459,Leadership,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",68
+SK0460,Leadership,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",69
+SK0461,Leadership,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",70
+SK0462,Leadership,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",71
+SK0463,Problem Solving,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",72
+SK0464,Problem Solving,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",73
+SK0465,Problem Solving,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",74
+SK0466,Problem Solving,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",75
+SK0467,Problem Solving,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",76
+SK0468,Problem Solving,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",77
+SK0469,Critical Thinking,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",78
+SK0470,Critical Thinking,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",79
+SK0471,Critical Thinking,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",80
+SK0472,Critical Thinking,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",81
+SK0473,Critical Thinking,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",82
+SK0474,Critical Thinking,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",83
+SK0475,Teamwork,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",84
+SK0476,Teamwork,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",85
+SK0477,Teamwork,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",86
+SK0478,Teamwork,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",87
+SK0479,Teamwork,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",88
+SK0480,Teamwork,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",89
+SK0481,Time Management,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",90
+SK0482,Time Management,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",91
+SK0483,Time Management,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",92
+SK0484,Time Management,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",93
+SK0485,Time Management,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",94
+SK0486,Time Management,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",95
+SK0487,Adaptability,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",96
+SK0488,Adaptability,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",97
+SK0489,Adaptability,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",98
+SK0490,Adaptability,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",99
+SK0491,Adaptability,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",100
+SK0492,Adaptability,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",60
+SK0493,Presentation Skills,Soft Skills,Beginner,Medium,Soft Skill,"IT, AI & Data Science",61
+SK0494,Presentation Skills,Soft Skills,Intermediate,Medium,Soft Skill,"IT, AI & Data Science",62
+SK0495,Presentation Skills,Soft Skills,Advanced,Medium,Soft Skill,"IT, AI & Data Science",63
+SK0496,Presentation Skills,Soft Skills,Expert,High,Soft Skill,"IT, AI & Data Science",64
+SK0497,Presentation Skills,Soft Skills,Industry Standard,High,Soft Skill,"IT, AI & Data Science",65
+SK0498,Presentation Skills,Soft Skills,High Demand,High,Soft Skill,"IT, AI & Data Science",66

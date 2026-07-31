@@ -1,0 +1,601 @@
+Salary_ID,Job_Role,Location,Company_Type,Experience,Minimum_Salary_LPA,Maximum_Salary_LPA,Average_Salary_LPA,Required_Skills,Education,Employment_Type
+SAL0001,Data Analyst,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0002,Data Analyst,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0003,Data Analyst,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0004,Data Analyst,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0005,Data Analyst,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0006,Data Scientist,Delhi,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0007,Data Scientist,Noida,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0008,Data Scientist,Remote,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0009,Data Scientist,Bengaluru,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0010,Data Scientist,Hyderabad,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0011,Machine Learning Engineer,Chennai,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0012,Machine Learning Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0013,Machine Learning Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0014,Machine Learning Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0015,Machine Learning Engineer,Noida,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0016,AI Engineer,Remote,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0017,AI Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0018,AI Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0019,AI Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0020,AI Engineer,Pune,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0021,Data Engineer,Mumbai,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0022,Data Engineer,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0023,Data Engineer,Noida,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0024,Data Engineer,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0025,Data Engineer,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0026,BI Developer,Hyderabad,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0027,BI Developer,Chennai,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0028,BI Developer,Pune,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0029,BI Developer,Mumbai,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0030,BI Developer,Delhi,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0031,Python Developer,Noida,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0032,Python Developer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0033,Python Developer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0034,Python Developer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0035,Python Developer,Chennai,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0036,Backend Developer,Pune,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0037,Backend Developer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0038,Backend Developer,Delhi,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0039,Backend Developer,Noida,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0040,Backend Developer,Remote,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0041,Full Stack Developer,Bengaluru,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0042,Full Stack Developer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0043,Full Stack Developer,Chennai,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0044,Full Stack Developer,Pune,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0045,Full Stack Developer,Mumbai,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0046,Cloud Engineer,Delhi,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0047,Cloud Engineer,Noida,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0048,Cloud Engineer,Remote,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0049,Cloud Engineer,Bengaluru,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0050,Cloud Engineer,Hyderabad,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0051,DevOps Engineer,Chennai,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0052,DevOps Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0053,DevOps Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0054,DevOps Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0055,DevOps Engineer,Noida,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0056,NLP Engineer,Remote,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0057,NLP Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0058,NLP Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0059,NLP Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0060,NLP Engineer,Pune,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0061,Data Analyst,Mumbai,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0062,Data Analyst,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0063,Data Analyst,Noida,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0064,Data Analyst,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0065,Data Analyst,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0066,Data Scientist,Hyderabad,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0067,Data Scientist,Chennai,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0068,Data Scientist,Pune,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0069,Data Scientist,Mumbai,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0070,Data Scientist,Delhi,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0071,Machine Learning Engineer,Noida,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0072,Machine Learning Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0073,Machine Learning Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0074,Machine Learning Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0075,Machine Learning Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0076,AI Engineer,Pune,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0077,AI Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0078,AI Engineer,Delhi,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0079,AI Engineer,Noida,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0080,AI Engineer,Remote,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0081,Data Engineer,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0082,Data Engineer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0083,Data Engineer,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0084,Data Engineer,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0085,Data Engineer,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0086,BI Developer,Delhi,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0087,BI Developer,Noida,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0088,BI Developer,Remote,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0089,BI Developer,Bengaluru,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0090,BI Developer,Hyderabad,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0091,Python Developer,Chennai,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0092,Python Developer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0093,Python Developer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0094,Python Developer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0095,Python Developer,Noida,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0096,Backend Developer,Remote,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0097,Backend Developer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0098,Backend Developer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0099,Backend Developer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0100,Backend Developer,Pune,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0101,Full Stack Developer,Mumbai,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0102,Full Stack Developer,Delhi,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0103,Full Stack Developer,Noida,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0104,Full Stack Developer,Remote,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0105,Full Stack Developer,Bengaluru,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0106,Cloud Engineer,Hyderabad,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0107,Cloud Engineer,Chennai,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0108,Cloud Engineer,Pune,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0109,Cloud Engineer,Mumbai,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0110,Cloud Engineer,Delhi,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0111,DevOps Engineer,Noida,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0112,DevOps Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0113,DevOps Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0114,DevOps Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0115,DevOps Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0116,NLP Engineer,Pune,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0117,NLP Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0118,NLP Engineer,Delhi,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0119,NLP Engineer,Noida,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0120,NLP Engineer,Remote,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0121,Data Analyst,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0122,Data Analyst,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0123,Data Analyst,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0124,Data Analyst,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0125,Data Analyst,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0126,Data Scientist,Delhi,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0127,Data Scientist,Noida,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0128,Data Scientist,Remote,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0129,Data Scientist,Bengaluru,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0130,Data Scientist,Hyderabad,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0131,Machine Learning Engineer,Chennai,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0132,Machine Learning Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0133,Machine Learning Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0134,Machine Learning Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0135,Machine Learning Engineer,Noida,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0136,AI Engineer,Remote,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0137,AI Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0138,AI Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0139,AI Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0140,AI Engineer,Pune,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0141,Data Engineer,Mumbai,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0142,Data Engineer,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0143,Data Engineer,Noida,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0144,Data Engineer,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0145,Data Engineer,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0146,BI Developer,Hyderabad,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0147,BI Developer,Chennai,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0148,BI Developer,Pune,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0149,BI Developer,Mumbai,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0150,BI Developer,Delhi,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0151,Python Developer,Noida,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0152,Python Developer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0153,Python Developer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0154,Python Developer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0155,Python Developer,Chennai,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0156,Backend Developer,Pune,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0157,Backend Developer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0158,Backend Developer,Delhi,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0159,Backend Developer,Noida,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0160,Backend Developer,Remote,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0161,Full Stack Developer,Bengaluru,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0162,Full Stack Developer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0163,Full Stack Developer,Chennai,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0164,Full Stack Developer,Pune,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0165,Full Stack Developer,Mumbai,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0166,Cloud Engineer,Delhi,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0167,Cloud Engineer,Noida,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0168,Cloud Engineer,Remote,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0169,Cloud Engineer,Bengaluru,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0170,Cloud Engineer,Hyderabad,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0171,DevOps Engineer,Chennai,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0172,DevOps Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0173,DevOps Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0174,DevOps Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0175,DevOps Engineer,Noida,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0176,NLP Engineer,Remote,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0177,NLP Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0178,NLP Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0179,NLP Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0180,NLP Engineer,Pune,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0181,Data Analyst,Mumbai,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0182,Data Analyst,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0183,Data Analyst,Noida,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0184,Data Analyst,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0185,Data Analyst,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0186,Data Scientist,Hyderabad,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0187,Data Scientist,Chennai,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0188,Data Scientist,Pune,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0189,Data Scientist,Mumbai,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0190,Data Scientist,Delhi,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0191,Machine Learning Engineer,Noida,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0192,Machine Learning Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0193,Machine Learning Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0194,Machine Learning Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0195,Machine Learning Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0196,AI Engineer,Pune,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0197,AI Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0198,AI Engineer,Delhi,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0199,AI Engineer,Noida,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0200,AI Engineer,Remote,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0201,Data Engineer,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0202,Data Engineer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0203,Data Engineer,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0204,Data Engineer,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0205,Data Engineer,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0206,BI Developer,Delhi,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0207,BI Developer,Noida,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0208,BI Developer,Remote,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0209,BI Developer,Bengaluru,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0210,BI Developer,Hyderabad,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0211,Python Developer,Chennai,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0212,Python Developer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0213,Python Developer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0214,Python Developer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0215,Python Developer,Noida,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0216,Backend Developer,Remote,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0217,Backend Developer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0218,Backend Developer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0219,Backend Developer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0220,Backend Developer,Pune,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0221,Full Stack Developer,Mumbai,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0222,Full Stack Developer,Delhi,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0223,Full Stack Developer,Noida,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0224,Full Stack Developer,Remote,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0225,Full Stack Developer,Bengaluru,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0226,Cloud Engineer,Hyderabad,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0227,Cloud Engineer,Chennai,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0228,Cloud Engineer,Pune,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0229,Cloud Engineer,Mumbai,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0230,Cloud Engineer,Delhi,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0231,DevOps Engineer,Noida,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0232,DevOps Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0233,DevOps Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0234,DevOps Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0235,DevOps Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0236,NLP Engineer,Pune,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0237,NLP Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0238,NLP Engineer,Delhi,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0239,NLP Engineer,Noida,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0240,NLP Engineer,Remote,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0241,Data Analyst,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0242,Data Analyst,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0243,Data Analyst,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0244,Data Analyst,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0245,Data Analyst,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0246,Data Scientist,Delhi,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0247,Data Scientist,Noida,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0248,Data Scientist,Remote,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0249,Data Scientist,Bengaluru,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0250,Data Scientist,Hyderabad,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0251,Machine Learning Engineer,Chennai,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0252,Machine Learning Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0253,Machine Learning Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0254,Machine Learning Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0255,Machine Learning Engineer,Noida,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0256,AI Engineer,Remote,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0257,AI Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0258,AI Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0259,AI Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0260,AI Engineer,Pune,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0261,Data Engineer,Mumbai,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0262,Data Engineer,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0263,Data Engineer,Noida,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0264,Data Engineer,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0265,Data Engineer,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0266,BI Developer,Hyderabad,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0267,BI Developer,Chennai,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0268,BI Developer,Pune,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0269,BI Developer,Mumbai,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0270,BI Developer,Delhi,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0271,Python Developer,Noida,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0272,Python Developer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0273,Python Developer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0274,Python Developer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0275,Python Developer,Chennai,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0276,Backend Developer,Pune,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0277,Backend Developer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0278,Backend Developer,Delhi,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0279,Backend Developer,Noida,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0280,Backend Developer,Remote,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0281,Full Stack Developer,Bengaluru,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0282,Full Stack Developer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0283,Full Stack Developer,Chennai,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0284,Full Stack Developer,Pune,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0285,Full Stack Developer,Mumbai,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0286,Cloud Engineer,Delhi,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0287,Cloud Engineer,Noida,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0288,Cloud Engineer,Remote,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0289,Cloud Engineer,Bengaluru,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0290,Cloud Engineer,Hyderabad,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0291,DevOps Engineer,Chennai,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0292,DevOps Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0293,DevOps Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0294,DevOps Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0295,DevOps Engineer,Noida,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0296,NLP Engineer,Remote,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0297,NLP Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0298,NLP Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0299,NLP Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0300,NLP Engineer,Pune,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0301,Data Analyst,Mumbai,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0302,Data Analyst,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0303,Data Analyst,Noida,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0304,Data Analyst,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0305,Data Analyst,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0306,Data Scientist,Hyderabad,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0307,Data Scientist,Chennai,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0308,Data Scientist,Pune,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0309,Data Scientist,Mumbai,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0310,Data Scientist,Delhi,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0311,Machine Learning Engineer,Noida,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0312,Machine Learning Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0313,Machine Learning Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0314,Machine Learning Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0315,Machine Learning Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0316,AI Engineer,Pune,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0317,AI Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0318,AI Engineer,Delhi,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0319,AI Engineer,Noida,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0320,AI Engineer,Remote,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0321,Data Engineer,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0322,Data Engineer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0323,Data Engineer,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0324,Data Engineer,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0325,Data Engineer,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0326,BI Developer,Delhi,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0327,BI Developer,Noida,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0328,BI Developer,Remote,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0329,BI Developer,Bengaluru,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0330,BI Developer,Hyderabad,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0331,Python Developer,Chennai,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0332,Python Developer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0333,Python Developer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0334,Python Developer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0335,Python Developer,Noida,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0336,Backend Developer,Remote,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0337,Backend Developer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0338,Backend Developer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0339,Backend Developer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0340,Backend Developer,Pune,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0341,Full Stack Developer,Mumbai,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0342,Full Stack Developer,Delhi,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0343,Full Stack Developer,Noida,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0344,Full Stack Developer,Remote,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0345,Full Stack Developer,Bengaluru,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0346,Cloud Engineer,Hyderabad,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0347,Cloud Engineer,Chennai,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0348,Cloud Engineer,Pune,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0349,Cloud Engineer,Mumbai,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0350,Cloud Engineer,Delhi,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0351,DevOps Engineer,Noida,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0352,DevOps Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0353,DevOps Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0354,DevOps Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0355,DevOps Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0356,NLP Engineer,Pune,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0357,NLP Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0358,NLP Engineer,Delhi,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0359,NLP Engineer,Noida,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0360,NLP Engineer,Remote,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0361,Data Analyst,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0362,Data Analyst,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0363,Data Analyst,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0364,Data Analyst,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0365,Data Analyst,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0366,Data Scientist,Delhi,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0367,Data Scientist,Noida,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0368,Data Scientist,Remote,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0369,Data Scientist,Bengaluru,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0370,Data Scientist,Hyderabad,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0371,Machine Learning Engineer,Chennai,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0372,Machine Learning Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0373,Machine Learning Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0374,Machine Learning Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0375,Machine Learning Engineer,Noida,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0376,AI Engineer,Remote,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0377,AI Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0378,AI Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0379,AI Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0380,AI Engineer,Pune,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0381,Data Engineer,Mumbai,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0382,Data Engineer,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0383,Data Engineer,Noida,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0384,Data Engineer,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0385,Data Engineer,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0386,BI Developer,Hyderabad,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0387,BI Developer,Chennai,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0388,BI Developer,Pune,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0389,BI Developer,Mumbai,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0390,BI Developer,Delhi,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0391,Python Developer,Noida,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0392,Python Developer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0393,Python Developer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0394,Python Developer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0395,Python Developer,Chennai,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0396,Backend Developer,Pune,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0397,Backend Developer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0398,Backend Developer,Delhi,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0399,Backend Developer,Noida,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0400,Backend Developer,Remote,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0401,Full Stack Developer,Bengaluru,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0402,Full Stack Developer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0403,Full Stack Developer,Chennai,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0404,Full Stack Developer,Pune,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0405,Full Stack Developer,Mumbai,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0406,Cloud Engineer,Delhi,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0407,Cloud Engineer,Noida,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0408,Cloud Engineer,Remote,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0409,Cloud Engineer,Bengaluru,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0410,Cloud Engineer,Hyderabad,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0411,DevOps Engineer,Chennai,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0412,DevOps Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0413,DevOps Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0414,DevOps Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0415,DevOps Engineer,Noida,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0416,NLP Engineer,Remote,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0417,NLP Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0418,NLP Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0419,NLP Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0420,NLP Engineer,Pune,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0421,Data Analyst,Mumbai,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0422,Data Analyst,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0423,Data Analyst,Noida,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0424,Data Analyst,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0425,Data Analyst,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0426,Data Scientist,Hyderabad,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0427,Data Scientist,Chennai,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0428,Data Scientist,Pune,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0429,Data Scientist,Mumbai,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0430,Data Scientist,Delhi,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0431,Machine Learning Engineer,Noida,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0432,Machine Learning Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0433,Machine Learning Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0434,Machine Learning Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0435,Machine Learning Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0436,AI Engineer,Pune,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0437,AI Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0438,AI Engineer,Delhi,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0439,AI Engineer,Noida,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0440,AI Engineer,Remote,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0441,Data Engineer,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0442,Data Engineer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0443,Data Engineer,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0444,Data Engineer,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0445,Data Engineer,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0446,BI Developer,Delhi,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0447,BI Developer,Noida,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0448,BI Developer,Remote,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0449,BI Developer,Bengaluru,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0450,BI Developer,Hyderabad,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0451,Python Developer,Chennai,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0452,Python Developer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0453,Python Developer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0454,Python Developer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0455,Python Developer,Noida,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0456,Backend Developer,Remote,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0457,Backend Developer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0458,Backend Developer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0459,Backend Developer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0460,Backend Developer,Pune,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0461,Full Stack Developer,Mumbai,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0462,Full Stack Developer,Delhi,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0463,Full Stack Developer,Noida,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0464,Full Stack Developer,Remote,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0465,Full Stack Developer,Bengaluru,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0466,Cloud Engineer,Hyderabad,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0467,Cloud Engineer,Chennai,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0468,Cloud Engineer,Pune,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0469,Cloud Engineer,Mumbai,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0470,Cloud Engineer,Delhi,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0471,DevOps Engineer,Noida,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0472,DevOps Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0473,DevOps Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0474,DevOps Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0475,DevOps Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0476,NLP Engineer,Pune,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0477,NLP Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0478,NLP Engineer,Delhi,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0479,NLP Engineer,Noida,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0480,NLP Engineer,Remote,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0481,Data Analyst,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0482,Data Analyst,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0483,Data Analyst,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0484,Data Analyst,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0485,Data Analyst,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0486,Data Scientist,Delhi,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0487,Data Scientist,Noida,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0488,Data Scientist,Remote,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0489,Data Scientist,Bengaluru,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0490,Data Scientist,Hyderabad,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0491,Machine Learning Engineer,Chennai,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0492,Machine Learning Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0493,Machine Learning Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0494,Machine Learning Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0495,Machine Learning Engineer,Noida,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0496,AI Engineer,Remote,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0497,AI Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0498,AI Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0499,AI Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0500,AI Engineer,Pune,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0501,Data Engineer,Mumbai,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0502,Data Engineer,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0503,Data Engineer,Noida,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0504,Data Engineer,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0505,Data Engineer,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0506,BI Developer,Hyderabad,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0507,BI Developer,Chennai,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0508,BI Developer,Pune,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0509,BI Developer,Mumbai,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0510,BI Developer,Delhi,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0511,Python Developer,Noida,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0512,Python Developer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0513,Python Developer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0514,Python Developer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0515,Python Developer,Chennai,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0516,Backend Developer,Pune,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0517,Backend Developer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0518,Backend Developer,Delhi,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0519,Backend Developer,Noida,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0520,Backend Developer,Remote,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0521,Full Stack Developer,Bengaluru,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0522,Full Stack Developer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0523,Full Stack Developer,Chennai,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0524,Full Stack Developer,Pune,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0525,Full Stack Developer,Mumbai,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0526,Cloud Engineer,Delhi,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0527,Cloud Engineer,Noida,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0528,Cloud Engineer,Remote,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0529,Cloud Engineer,Bengaluru,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0530,Cloud Engineer,Hyderabad,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0531,DevOps Engineer,Chennai,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0532,DevOps Engineer,Pune,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0533,DevOps Engineer,Mumbai,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0534,DevOps Engineer,Delhi,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0535,DevOps Engineer,Noida,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0536,NLP Engineer,Remote,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0537,NLP Engineer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0538,NLP Engineer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0539,NLP Engineer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0540,NLP Engineer,Pune,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0541,Data Analyst,Mumbai,Startup,Fresher,3,6,4.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0542,Data Analyst,Delhi,Mid-size,0-2 Years,5,9,7.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0543,Data Analyst,Noida,MNC,2-4 Years,8,15,11.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0544,Data Analyst,Remote,Product Company,4-6 Years,12,22,17.0,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0545,Data Analyst,Bengaluru,Consulting,6+ Years,18,35,26.5,SQL;Excel;Power BI;Python,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0546,Data Scientist,Hyderabad,Startup,Fresher,3,6,4.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0547,Data Scientist,Chennai,Mid-size,0-2 Years,5,9,7.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0548,Data Scientist,Pune,MNC,2-4 Years,8,15,11.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0549,Data Scientist,Mumbai,Product Company,4-6 Years,12,22,17.0,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0550,Data Scientist,Delhi,Consulting,6+ Years,18,35,26.5,Python;Machine Learning;Statistics;Scikit-learn,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0551,Machine Learning Engineer,Noida,Startup,Fresher,3,6,4.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0552,Machine Learning Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0553,Machine Learning Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0554,Machine Learning Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0555,Machine Learning Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Python;TensorFlow;PyTorch;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0556,AI Engineer,Pune,Startup,Fresher,3,6,4.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0557,AI Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0558,AI Engineer,Delhi,MNC,2-4 Years,8,15,11.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0559,AI Engineer,Noida,Product Company,4-6 Years,12,22,17.0,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0560,AI Engineer,Remote,Consulting,6+ Years,18,35,26.5,LLMs;Prompt Engineering;Python;Transformers,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0561,Data Engineer,Bengaluru,Startup,Fresher,3,6,4.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0562,Data Engineer,Hyderabad,Mid-size,0-2 Years,5,9,7.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0563,Data Engineer,Chennai,MNC,2-4 Years,8,15,11.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0564,Data Engineer,Pune,Product Company,4-6 Years,12,22,17.0,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0565,Data Engineer,Mumbai,Consulting,6+ Years,18,35,26.5,SQL;Spark;ETL;Airflow,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0566,BI Developer,Delhi,Startup,Fresher,3,6,4.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0567,BI Developer,Noida,Mid-size,0-2 Years,5,9,7.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0568,BI Developer,Remote,MNC,2-4 Years,8,15,11.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0569,BI Developer,Bengaluru,Product Company,4-6 Years,12,22,17.0,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0570,BI Developer,Hyderabad,Consulting,6+ Years,18,35,26.5,Power BI;SQL;DAX;Excel,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0571,Python Developer,Chennai,Startup,Fresher,3,6,4.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0572,Python Developer,Pune,Mid-size,0-2 Years,5,9,7.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0573,Python Developer,Mumbai,MNC,2-4 Years,8,15,11.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0574,Python Developer,Delhi,Product Company,4-6 Years,12,22,17.0,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0575,Python Developer,Noida,Consulting,6+ Years,18,35,26.5,Python;Flask;FastAPI;Git,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0576,Backend Developer,Remote,Startup,Fresher,3,6,4.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0577,Backend Developer,Bengaluru,Mid-size,0-2 Years,5,9,7.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0578,Backend Developer,Hyderabad,MNC,2-4 Years,8,15,11.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0579,Backend Developer,Chennai,Product Company,4-6 Years,12,22,17.0,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0580,Backend Developer,Pune,Consulting,6+ Years,18,35,26.5,Python;FastAPI;PostgreSQL;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0581,Full Stack Developer,Mumbai,Startup,Fresher,3,6,4.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0582,Full Stack Developer,Delhi,Mid-size,0-2 Years,5,9,7.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0583,Full Stack Developer,Noida,MNC,2-4 Years,8,15,11.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0584,Full Stack Developer,Remote,Product Company,4-6 Years,12,22,17.0,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0585,Full Stack Developer,Bengaluru,Consulting,6+ Years,18,35,26.5,React;Node.js;JavaScript;SQL,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0586,Cloud Engineer,Hyderabad,Startup,Fresher,3,6,4.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0587,Cloud Engineer,Chennai,Mid-size,0-2 Years,5,9,7.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0588,Cloud Engineer,Pune,MNC,2-4 Years,8,15,11.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0589,Cloud Engineer,Mumbai,Product Company,4-6 Years,12,22,17.0,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0590,Cloud Engineer,Delhi,Consulting,6+ Years,18,35,26.5,AWS;Linux;Terraform;Docker,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0591,DevOps Engineer,Noida,Startup,Fresher,3,6,4.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0592,DevOps Engineer,Remote,Mid-size,0-2 Years,5,9,7.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0593,DevOps Engineer,Bengaluru,MNC,2-4 Years,8,15,11.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0594,DevOps Engineer,Hyderabad,Product Company,4-6 Years,12,22,17.0,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0595,DevOps Engineer,Chennai,Consulting,6+ Years,18,35,26.5,Docker;Kubernetes;CI/CD;AWS,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0596,NLP Engineer,Pune,Startup,Fresher,3,6,4.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0597,NLP Engineer,Mumbai,Mid-size,0-2 Years,5,9,7.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0598,NLP Engineer,Delhi,MNC,2-4 Years,8,15,11.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0599,NLP Engineer,Noida,Product Company,4-6 Years,12,22,17.0,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time
+SAL0600,NLP Engineer,Remote,Consulting,6+ Years,18,35,26.5,Python;spaCy;Transformers;NLP,B.E/B.Tech/M.Tech/MCA,Full Time

@@ -1,0 +1,349 @@
+Course_ID,Course_Name,Platform,Skill,Difficulty,Duration,Certificate,Career_Path,Course_URL
+CRS0001,Python Masterclass 1,Coursera,Python,Beginner,6 Weeks,Yes,Data Analyst,https://learn.example.com/python-1
+CRS0002,Python Masterclass 2,Udemy,Python,Beginner,8 Weeks,Yes,Data Analyst,https://learn.example.com/python-2
+CRS0003,Python Masterclass 3,DataCamp,Python,Beginner,12 Weeks,Yes,Data Analyst,https://learn.example.com/python-3
+CRS0004,Python Masterclass 4,edX,Python,Beginner,4 Weeks,Yes,Data Analyst,https://learn.example.com/python-4
+CRS0005,Python Masterclass 1,Google,Python,Intermediate,6 Weeks,Yes,Data Analyst,https://learn.example.com/python-1
+CRS0006,Python Masterclass 2,IBM SkillsBuild,Python,Intermediate,8 Weeks,Yes,Data Analyst,https://learn.example.com/python-2
+CRS0007,Python Masterclass 3,Microsoft Learn,Python,Intermediate,12 Weeks,Yes,Data Analyst,https://learn.example.com/python-3
+CRS0008,Python Masterclass 4,AWS Skill Builder,Python,Intermediate,4 Weeks,Yes,Data Analyst,https://learn.example.com/python-4
+CRS0009,Python Masterclass 1,LinkedIn Learning,Python,Advanced,6 Weeks,Yes,Data Analyst,https://learn.example.com/python-1
+CRS0010,Python Masterclass 2,Kaggle Learn,Python,Advanced,8 Weeks,Yes,Data Analyst,https://learn.example.com/python-2
+CRS0011,Python Masterclass 3,Coursera,Python,Advanced,12 Weeks,Yes,Data Analyst,https://learn.example.com/python-3
+CRS0012,Python Masterclass 4,Udemy,Python,Advanced,4 Weeks,Yes,Data Analyst,https://learn.example.com/python-4
+CRS0013,SQL Masterclass 1,DataCamp,SQL,Beginner,6 Weeks,Yes,Data Analyst,https://learn.example.com/sql-1
+CRS0014,SQL Masterclass 2,edX,SQL,Beginner,8 Weeks,Yes,Data Analyst,https://learn.example.com/sql-2
+CRS0015,SQL Masterclass 3,Google,SQL,Beginner,12 Weeks,Yes,Data Analyst,https://learn.example.com/sql-3
+CRS0016,SQL Masterclass 4,IBM SkillsBuild,SQL,Beginner,4 Weeks,Yes,Data Analyst,https://learn.example.com/sql-4
+CRS0017,SQL Masterclass 1,Microsoft Learn,SQL,Intermediate,6 Weeks,Yes,Data Analyst,https://learn.example.com/sql-1
+CRS0018,SQL Masterclass 2,AWS Skill Builder,SQL,Intermediate,8 Weeks,Yes,Data Analyst,https://learn.example.com/sql-2
+CRS0019,SQL Masterclass 3,LinkedIn Learning,SQL,Intermediate,12 Weeks,Yes,Data Analyst,https://learn.example.com/sql-3
+CRS0020,SQL Masterclass 4,Kaggle Learn,SQL,Intermediate,4 Weeks,Yes,Data Analyst,https://learn.example.com/sql-4
+CRS0021,SQL Masterclass 1,Coursera,SQL,Advanced,6 Weeks,Yes,Data Analyst,https://learn.example.com/sql-1
+CRS0022,SQL Masterclass 2,Udemy,SQL,Advanced,8 Weeks,Yes,Data Analyst,https://learn.example.com/sql-2
+CRS0023,SQL Masterclass 3,DataCamp,SQL,Advanced,12 Weeks,Yes,Data Analyst,https://learn.example.com/sql-3
+CRS0024,SQL Masterclass 4,edX,SQL,Advanced,4 Weeks,Yes,Data Analyst,https://learn.example.com/sql-4
+CRS0025,Power BI Masterclass 1,Google,Power BI,Beginner,6 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-1
+CRS0026,Power BI Masterclass 2,IBM SkillsBuild,Power BI,Beginner,8 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-2
+CRS0027,Power BI Masterclass 3,Microsoft Learn,Power BI,Beginner,12 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-3
+CRS0028,Power BI Masterclass 4,AWS Skill Builder,Power BI,Beginner,4 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-4
+CRS0029,Power BI Masterclass 1,LinkedIn Learning,Power BI,Intermediate,6 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-1
+CRS0030,Power BI Masterclass 2,Kaggle Learn,Power BI,Intermediate,8 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-2
+CRS0031,Power BI Masterclass 3,Coursera,Power BI,Intermediate,12 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-3
+CRS0032,Power BI Masterclass 4,Udemy,Power BI,Intermediate,4 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-4
+CRS0033,Power BI Masterclass 1,DataCamp,Power BI,Advanced,6 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-1
+CRS0034,Power BI Masterclass 2,edX,Power BI,Advanced,8 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-2
+CRS0035,Power BI Masterclass 3,Google,Power BI,Advanced,12 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-3
+CRS0036,Power BI Masterclass 4,IBM SkillsBuild,Power BI,Advanced,4 Weeks,Yes,BI Developer,https://learn.example.com/power-bi-4
+CRS0037,Tableau Masterclass 1,Microsoft Learn,Tableau,Beginner,6 Weeks,Yes,BI Developer,https://learn.example.com/tableau-1
+CRS0038,Tableau Masterclass 2,AWS Skill Builder,Tableau,Beginner,8 Weeks,Yes,BI Developer,https://learn.example.com/tableau-2
+CRS0039,Tableau Masterclass 3,LinkedIn Learning,Tableau,Beginner,12 Weeks,Yes,BI Developer,https://learn.example.com/tableau-3
+CRS0040,Tableau Masterclass 4,Kaggle Learn,Tableau,Beginner,4 Weeks,Yes,BI Developer,https://learn.example.com/tableau-4
+CRS0041,Tableau Masterclass 1,Coursera,Tableau,Intermediate,6 Weeks,Yes,BI Developer,https://learn.example.com/tableau-1
+CRS0042,Tableau Masterclass 2,Udemy,Tableau,Intermediate,8 Weeks,Yes,BI Developer,https://learn.example.com/tableau-2
+CRS0043,Tableau Masterclass 3,DataCamp,Tableau,Intermediate,12 Weeks,Yes,BI Developer,https://learn.example.com/tableau-3
+CRS0044,Tableau Masterclass 4,edX,Tableau,Intermediate,4 Weeks,Yes,BI Developer,https://learn.example.com/tableau-4
+CRS0045,Tableau Masterclass 1,Google,Tableau,Advanced,6 Weeks,Yes,BI Developer,https://learn.example.com/tableau-1
+CRS0046,Tableau Masterclass 2,IBM SkillsBuild,Tableau,Advanced,8 Weeks,Yes,BI Developer,https://learn.example.com/tableau-2
+CRS0047,Tableau Masterclass 3,Microsoft Learn,Tableau,Advanced,12 Weeks,Yes,BI Developer,https://learn.example.com/tableau-3
+CRS0048,Tableau Masterclass 4,AWS Skill Builder,Tableau,Advanced,4 Weeks,Yes,BI Developer,https://learn.example.com/tableau-4
+CRS0049,Excel Masterclass 1,LinkedIn Learning,Excel,Beginner,6 Weeks,Yes,Business Analyst,https://learn.example.com/excel-1
+CRS0050,Excel Masterclass 2,Kaggle Learn,Excel,Beginner,8 Weeks,Yes,Business Analyst,https://learn.example.com/excel-2
+CRS0051,Excel Masterclass 3,Coursera,Excel,Beginner,12 Weeks,Yes,Business Analyst,https://learn.example.com/excel-3
+CRS0052,Excel Masterclass 4,Udemy,Excel,Beginner,4 Weeks,Yes,Business Analyst,https://learn.example.com/excel-4
+CRS0053,Excel Masterclass 1,DataCamp,Excel,Intermediate,6 Weeks,Yes,Business Analyst,https://learn.example.com/excel-1
+CRS0054,Excel Masterclass 2,edX,Excel,Intermediate,8 Weeks,Yes,Business Analyst,https://learn.example.com/excel-2
+CRS0055,Excel Masterclass 3,Google,Excel,Intermediate,12 Weeks,Yes,Business Analyst,https://learn.example.com/excel-3
+CRS0056,Excel Masterclass 4,IBM SkillsBuild,Excel,Intermediate,4 Weeks,Yes,Business Analyst,https://learn.example.com/excel-4
+CRS0057,Excel Masterclass 1,Microsoft Learn,Excel,Advanced,6 Weeks,Yes,Business Analyst,https://learn.example.com/excel-1
+CRS0058,Excel Masterclass 2,AWS Skill Builder,Excel,Advanced,8 Weeks,Yes,Business Analyst,https://learn.example.com/excel-2
+CRS0059,Excel Masterclass 3,LinkedIn Learning,Excel,Advanced,12 Weeks,Yes,Business Analyst,https://learn.example.com/excel-3
+CRS0060,Excel Masterclass 4,Kaggle Learn,Excel,Advanced,4 Weeks,Yes,Business Analyst,https://learn.example.com/excel-4
+CRS0061,Machine Learning Masterclass 1,Coursera,Machine Learning,Beginner,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-1
+CRS0062,Machine Learning Masterclass 2,Udemy,Machine Learning,Beginner,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-2
+CRS0063,Machine Learning Masterclass 3,DataCamp,Machine Learning,Beginner,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-3
+CRS0064,Machine Learning Masterclass 4,edX,Machine Learning,Beginner,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-4
+CRS0065,Machine Learning Masterclass 1,Google,Machine Learning,Intermediate,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-1
+CRS0066,Machine Learning Masterclass 2,IBM SkillsBuild,Machine Learning,Intermediate,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-2
+CRS0067,Machine Learning Masterclass 3,Microsoft Learn,Machine Learning,Intermediate,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-3
+CRS0068,Machine Learning Masterclass 4,AWS Skill Builder,Machine Learning,Intermediate,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-4
+CRS0069,Machine Learning Masterclass 1,LinkedIn Learning,Machine Learning,Advanced,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-1
+CRS0070,Machine Learning Masterclass 2,Kaggle Learn,Machine Learning,Advanced,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-2
+CRS0071,Machine Learning Masterclass 3,Coursera,Machine Learning,Advanced,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-3
+CRS0072,Machine Learning Masterclass 4,Udemy,Machine Learning,Advanced,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/machine-learning-4
+CRS0073,Deep Learning Masterclass 1,DataCamp,Deep Learning,Beginner,6 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-1
+CRS0074,Deep Learning Masterclass 2,edX,Deep Learning,Beginner,8 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-2
+CRS0075,Deep Learning Masterclass 3,Google,Deep Learning,Beginner,12 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-3
+CRS0076,Deep Learning Masterclass 4,IBM SkillsBuild,Deep Learning,Beginner,4 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-4
+CRS0077,Deep Learning Masterclass 1,Microsoft Learn,Deep Learning,Intermediate,6 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-1
+CRS0078,Deep Learning Masterclass 2,AWS Skill Builder,Deep Learning,Intermediate,8 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-2
+CRS0079,Deep Learning Masterclass 3,LinkedIn Learning,Deep Learning,Intermediate,12 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-3
+CRS0080,Deep Learning Masterclass 4,Kaggle Learn,Deep Learning,Intermediate,4 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-4
+CRS0081,Deep Learning Masterclass 1,Coursera,Deep Learning,Advanced,6 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-1
+CRS0082,Deep Learning Masterclass 2,Udemy,Deep Learning,Advanced,8 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-2
+CRS0083,Deep Learning Masterclass 3,DataCamp,Deep Learning,Advanced,12 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-3
+CRS0084,Deep Learning Masterclass 4,edX,Deep Learning,Advanced,4 Weeks,Yes,AI Engineer,https://learn.example.com/deep-learning-4
+CRS0085,TensorFlow Masterclass 1,Google,TensorFlow,Beginner,6 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-1
+CRS0086,TensorFlow Masterclass 2,IBM SkillsBuild,TensorFlow,Beginner,8 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-2
+CRS0087,TensorFlow Masterclass 3,Microsoft Learn,TensorFlow,Beginner,12 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-3
+CRS0088,TensorFlow Masterclass 4,AWS Skill Builder,TensorFlow,Beginner,4 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-4
+CRS0089,TensorFlow Masterclass 1,LinkedIn Learning,TensorFlow,Intermediate,6 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-1
+CRS0090,TensorFlow Masterclass 2,Kaggle Learn,TensorFlow,Intermediate,8 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-2
+CRS0091,TensorFlow Masterclass 3,Coursera,TensorFlow,Intermediate,12 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-3
+CRS0092,TensorFlow Masterclass 4,Udemy,TensorFlow,Intermediate,4 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-4
+CRS0093,TensorFlow Masterclass 1,DataCamp,TensorFlow,Advanced,6 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-1
+CRS0094,TensorFlow Masterclass 2,edX,TensorFlow,Advanced,8 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-2
+CRS0095,TensorFlow Masterclass 3,Google,TensorFlow,Advanced,12 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-3
+CRS0096,TensorFlow Masterclass 4,IBM SkillsBuild,TensorFlow,Advanced,4 Weeks,Yes,AI Engineer,https://learn.example.com/tensorflow-4
+CRS0097,PyTorch Masterclass 1,Microsoft Learn,PyTorch,Beginner,6 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-1
+CRS0098,PyTorch Masterclass 2,AWS Skill Builder,PyTorch,Beginner,8 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-2
+CRS0099,PyTorch Masterclass 3,LinkedIn Learning,PyTorch,Beginner,12 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-3
+CRS0100,PyTorch Masterclass 4,Kaggle Learn,PyTorch,Beginner,4 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-4
+CRS0101,PyTorch Masterclass 1,Coursera,PyTorch,Intermediate,6 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-1
+CRS0102,PyTorch Masterclass 2,Udemy,PyTorch,Intermediate,8 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-2
+CRS0103,PyTorch Masterclass 3,DataCamp,PyTorch,Intermediate,12 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-3
+CRS0104,PyTorch Masterclass 4,edX,PyTorch,Intermediate,4 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-4
+CRS0105,PyTorch Masterclass 1,Google,PyTorch,Advanced,6 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-1
+CRS0106,PyTorch Masterclass 2,IBM SkillsBuild,PyTorch,Advanced,8 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-2
+CRS0107,PyTorch Masterclass 3,Microsoft Learn,PyTorch,Advanced,12 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-3
+CRS0108,PyTorch Masterclass 4,AWS Skill Builder,PyTorch,Advanced,4 Weeks,Yes,AI Engineer,https://learn.example.com/pytorch-4
+CRS0109,Scikit-learn Masterclass 1,LinkedIn Learning,Scikit-learn,Beginner,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-1
+CRS0110,Scikit-learn Masterclass 2,Kaggle Learn,Scikit-learn,Beginner,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-2
+CRS0111,Scikit-learn Masterclass 3,Coursera,Scikit-learn,Beginner,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-3
+CRS0112,Scikit-learn Masterclass 4,Udemy,Scikit-learn,Beginner,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-4
+CRS0113,Scikit-learn Masterclass 1,DataCamp,Scikit-learn,Intermediate,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-1
+CRS0114,Scikit-learn Masterclass 2,edX,Scikit-learn,Intermediate,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-2
+CRS0115,Scikit-learn Masterclass 3,Google,Scikit-learn,Intermediate,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-3
+CRS0116,Scikit-learn Masterclass 4,IBM SkillsBuild,Scikit-learn,Intermediate,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-4
+CRS0117,Scikit-learn Masterclass 1,Microsoft Learn,Scikit-learn,Advanced,6 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-1
+CRS0118,Scikit-learn Masterclass 2,AWS Skill Builder,Scikit-learn,Advanced,8 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-2
+CRS0119,Scikit-learn Masterclass 3,LinkedIn Learning,Scikit-learn,Advanced,12 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-3
+CRS0120,Scikit-learn Masterclass 4,Kaggle Learn,Scikit-learn,Advanced,4 Weeks,Yes,Machine Learning Engineer,https://learn.example.com/scikit-learn-4
+CRS0121,Pandas Masterclass 1,Coursera,Pandas,Beginner,6 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-1
+CRS0122,Pandas Masterclass 2,Udemy,Pandas,Beginner,8 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-2
+CRS0123,Pandas Masterclass 3,DataCamp,Pandas,Beginner,12 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-3
+CRS0124,Pandas Masterclass 4,edX,Pandas,Beginner,4 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-4
+CRS0125,Pandas Masterclass 1,Google,Pandas,Intermediate,6 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-1
+CRS0126,Pandas Masterclass 2,IBM SkillsBuild,Pandas,Intermediate,8 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-2
+CRS0127,Pandas Masterclass 3,Microsoft Learn,Pandas,Intermediate,12 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-3
+CRS0128,Pandas Masterclass 4,AWS Skill Builder,Pandas,Intermediate,4 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-4
+CRS0129,Pandas Masterclass 1,LinkedIn Learning,Pandas,Advanced,6 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-1
+CRS0130,Pandas Masterclass 2,Kaggle Learn,Pandas,Advanced,8 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-2
+CRS0131,Pandas Masterclass 3,Coursera,Pandas,Advanced,12 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-3
+CRS0132,Pandas Masterclass 4,Udemy,Pandas,Advanced,4 Weeks,Yes,Data Scientist,https://learn.example.com/pandas-4
+CRS0133,NumPy Masterclass 1,DataCamp,NumPy,Beginner,6 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-1
+CRS0134,NumPy Masterclass 2,edX,NumPy,Beginner,8 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-2
+CRS0135,NumPy Masterclass 3,Google,NumPy,Beginner,12 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-3
+CRS0136,NumPy Masterclass 4,IBM SkillsBuild,NumPy,Beginner,4 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-4
+CRS0137,NumPy Masterclass 1,Microsoft Learn,NumPy,Intermediate,6 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-1
+CRS0138,NumPy Masterclass 2,AWS Skill Builder,NumPy,Intermediate,8 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-2
+CRS0139,NumPy Masterclass 3,LinkedIn Learning,NumPy,Intermediate,12 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-3
+CRS0140,NumPy Masterclass 4,Kaggle Learn,NumPy,Intermediate,4 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-4
+CRS0141,NumPy Masterclass 1,Coursera,NumPy,Advanced,6 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-1
+CRS0142,NumPy Masterclass 2,Udemy,NumPy,Advanced,8 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-2
+CRS0143,NumPy Masterclass 3,DataCamp,NumPy,Advanced,12 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-3
+CRS0144,NumPy Masterclass 4,edX,NumPy,Advanced,4 Weeks,Yes,Data Scientist,https://learn.example.com/numpy-4
+CRS0145,Statistics Masterclass 1,Google,Statistics,Beginner,6 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-1
+CRS0146,Statistics Masterclass 2,IBM SkillsBuild,Statistics,Beginner,8 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-2
+CRS0147,Statistics Masterclass 3,Microsoft Learn,Statistics,Beginner,12 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-3
+CRS0148,Statistics Masterclass 4,AWS Skill Builder,Statistics,Beginner,4 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-4
+CRS0149,Statistics Masterclass 1,LinkedIn Learning,Statistics,Intermediate,6 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-1
+CRS0150,Statistics Masterclass 2,Kaggle Learn,Statistics,Intermediate,8 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-2
+CRS0151,Statistics Masterclass 3,Coursera,Statistics,Intermediate,12 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-3
+CRS0152,Statistics Masterclass 4,Udemy,Statistics,Intermediate,4 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-4
+CRS0153,Statistics Masterclass 1,DataCamp,Statistics,Advanced,6 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-1
+CRS0154,Statistics Masterclass 2,edX,Statistics,Advanced,8 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-2
+CRS0155,Statistics Masterclass 3,Google,Statistics,Advanced,12 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-3
+CRS0156,Statistics Masterclass 4,IBM SkillsBuild,Statistics,Advanced,4 Weeks,Yes,Data Scientist,https://learn.example.com/statistics-4
+CRS0157,Data Visualization Masterclass 1,Microsoft Learn,Data Visualization,Beginner,6 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-1
+CRS0158,Data Visualization Masterclass 2,AWS Skill Builder,Data Visualization,Beginner,8 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-2
+CRS0159,Data Visualization Masterclass 3,LinkedIn Learning,Data Visualization,Beginner,12 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-3
+CRS0160,Data Visualization Masterclass 4,Kaggle Learn,Data Visualization,Beginner,4 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-4
+CRS0161,Data Visualization Masterclass 1,Coursera,Data Visualization,Intermediate,6 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-1
+CRS0162,Data Visualization Masterclass 2,Udemy,Data Visualization,Intermediate,8 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-2
+CRS0163,Data Visualization Masterclass 3,DataCamp,Data Visualization,Intermediate,12 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-3
+CRS0164,Data Visualization Masterclass 4,edX,Data Visualization,Intermediate,4 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-4
+CRS0165,Data Visualization Masterclass 1,Google,Data Visualization,Advanced,6 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-1
+CRS0166,Data Visualization Masterclass 2,IBM SkillsBuild,Data Visualization,Advanced,8 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-2
+CRS0167,Data Visualization Masterclass 3,Microsoft Learn,Data Visualization,Advanced,12 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-3
+CRS0168,Data Visualization Masterclass 4,AWS Skill Builder,Data Visualization,Advanced,4 Weeks,Yes,Data Analyst,https://learn.example.com/data-visualization-4
+CRS0169,AWS Masterclass 1,LinkedIn Learning,AWS,Beginner,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-1
+CRS0170,AWS Masterclass 2,Kaggle Learn,AWS,Beginner,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-2
+CRS0171,AWS Masterclass 3,Coursera,AWS,Beginner,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-3
+CRS0172,AWS Masterclass 4,Udemy,AWS,Beginner,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-4
+CRS0173,AWS Masterclass 1,DataCamp,AWS,Intermediate,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-1
+CRS0174,AWS Masterclass 2,edX,AWS,Intermediate,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-2
+CRS0175,AWS Masterclass 3,Google,AWS,Intermediate,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-3
+CRS0176,AWS Masterclass 4,IBM SkillsBuild,AWS,Intermediate,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-4
+CRS0177,AWS Masterclass 1,Microsoft Learn,AWS,Advanced,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-1
+CRS0178,AWS Masterclass 2,AWS Skill Builder,AWS,Advanced,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-2
+CRS0179,AWS Masterclass 3,LinkedIn Learning,AWS,Advanced,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-3
+CRS0180,AWS Masterclass 4,Kaggle Learn,AWS,Advanced,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/aws-4
+CRS0181,Azure Masterclass 1,Coursera,Azure,Beginner,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-1
+CRS0182,Azure Masterclass 2,Udemy,Azure,Beginner,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-2
+CRS0183,Azure Masterclass 3,DataCamp,Azure,Beginner,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-3
+CRS0184,Azure Masterclass 4,edX,Azure,Beginner,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-4
+CRS0185,Azure Masterclass 1,Google,Azure,Intermediate,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-1
+CRS0186,Azure Masterclass 2,IBM SkillsBuild,Azure,Intermediate,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-2
+CRS0187,Azure Masterclass 3,Microsoft Learn,Azure,Intermediate,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-3
+CRS0188,Azure Masterclass 4,AWS Skill Builder,Azure,Intermediate,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-4
+CRS0189,Azure Masterclass 1,LinkedIn Learning,Azure,Advanced,6 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-1
+CRS0190,Azure Masterclass 2,Kaggle Learn,Azure,Advanced,8 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-2
+CRS0191,Azure Masterclass 3,Coursera,Azure,Advanced,12 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-3
+CRS0192,Azure Masterclass 4,Udemy,Azure,Advanced,4 Weeks,Yes,Cloud Engineer,https://learn.example.com/azure-4
+CRS0193,Docker Masterclass 1,DataCamp,Docker,Beginner,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-1
+CRS0194,Docker Masterclass 2,edX,Docker,Beginner,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-2
+CRS0195,Docker Masterclass 3,Google,Docker,Beginner,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-3
+CRS0196,Docker Masterclass 4,IBM SkillsBuild,Docker,Beginner,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-4
+CRS0197,Docker Masterclass 1,Microsoft Learn,Docker,Intermediate,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-1
+CRS0198,Docker Masterclass 2,AWS Skill Builder,Docker,Intermediate,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-2
+CRS0199,Docker Masterclass 3,LinkedIn Learning,Docker,Intermediate,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-3
+CRS0200,Docker Masterclass 4,Kaggle Learn,Docker,Intermediate,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-4
+CRS0201,Docker Masterclass 1,Coursera,Docker,Advanced,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-1
+CRS0202,Docker Masterclass 2,Udemy,Docker,Advanced,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-2
+CRS0203,Docker Masterclass 3,DataCamp,Docker,Advanced,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-3
+CRS0204,Docker Masterclass 4,edX,Docker,Advanced,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/docker-4
+CRS0205,Kubernetes Masterclass 1,Google,Kubernetes,Beginner,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-1
+CRS0206,Kubernetes Masterclass 2,IBM SkillsBuild,Kubernetes,Beginner,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-2
+CRS0207,Kubernetes Masterclass 3,Microsoft Learn,Kubernetes,Beginner,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-3
+CRS0208,Kubernetes Masterclass 4,AWS Skill Builder,Kubernetes,Beginner,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-4
+CRS0209,Kubernetes Masterclass 1,LinkedIn Learning,Kubernetes,Intermediate,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-1
+CRS0210,Kubernetes Masterclass 2,Kaggle Learn,Kubernetes,Intermediate,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-2
+CRS0211,Kubernetes Masterclass 3,Coursera,Kubernetes,Intermediate,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-3
+CRS0212,Kubernetes Masterclass 4,Udemy,Kubernetes,Intermediate,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-4
+CRS0213,Kubernetes Masterclass 1,DataCamp,Kubernetes,Advanced,6 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-1
+CRS0214,Kubernetes Masterclass 2,edX,Kubernetes,Advanced,8 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-2
+CRS0215,Kubernetes Masterclass 3,Google,Kubernetes,Advanced,12 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-3
+CRS0216,Kubernetes Masterclass 4,IBM SkillsBuild,Kubernetes,Advanced,4 Weeks,Yes,DevOps Engineer,https://learn.example.com/kubernetes-4
+CRS0217,Git Masterclass 1,Microsoft Learn,Git,Beginner,6 Weeks,Yes,Software Engineer,https://learn.example.com/git-1
+CRS0218,Git Masterclass 2,AWS Skill Builder,Git,Beginner,8 Weeks,Yes,Software Engineer,https://learn.example.com/git-2
+CRS0219,Git Masterclass 3,LinkedIn Learning,Git,Beginner,12 Weeks,Yes,Software Engineer,https://learn.example.com/git-3
+CRS0220,Git Masterclass 4,Kaggle Learn,Git,Beginner,4 Weeks,Yes,Software Engineer,https://learn.example.com/git-4
+CRS0221,Git Masterclass 1,Coursera,Git,Intermediate,6 Weeks,Yes,Software Engineer,https://learn.example.com/git-1
+CRS0222,Git Masterclass 2,Udemy,Git,Intermediate,8 Weeks,Yes,Software Engineer,https://learn.example.com/git-2
+CRS0223,Git Masterclass 3,DataCamp,Git,Intermediate,12 Weeks,Yes,Software Engineer,https://learn.example.com/git-3
+CRS0224,Git Masterclass 4,edX,Git,Intermediate,4 Weeks,Yes,Software Engineer,https://learn.example.com/git-4
+CRS0225,Git Masterclass 1,Google,Git,Advanced,6 Weeks,Yes,Software Engineer,https://learn.example.com/git-1
+CRS0226,Git Masterclass 2,IBM SkillsBuild,Git,Advanced,8 Weeks,Yes,Software Engineer,https://learn.example.com/git-2
+CRS0227,Git Masterclass 3,Microsoft Learn,Git,Advanced,12 Weeks,Yes,Software Engineer,https://learn.example.com/git-3
+CRS0228,Git Masterclass 4,AWS Skill Builder,Git,Advanced,4 Weeks,Yes,Software Engineer,https://learn.example.com/git-4
+CRS0229,FastAPI Masterclass 1,LinkedIn Learning,FastAPI,Beginner,6 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-1
+CRS0230,FastAPI Masterclass 2,Kaggle Learn,FastAPI,Beginner,8 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-2
+CRS0231,FastAPI Masterclass 3,Coursera,FastAPI,Beginner,12 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-3
+CRS0232,FastAPI Masterclass 4,Udemy,FastAPI,Beginner,4 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-4
+CRS0233,FastAPI Masterclass 1,DataCamp,FastAPI,Intermediate,6 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-1
+CRS0234,FastAPI Masterclass 2,edX,FastAPI,Intermediate,8 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-2
+CRS0235,FastAPI Masterclass 3,Google,FastAPI,Intermediate,12 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-3
+CRS0236,FastAPI Masterclass 4,IBM SkillsBuild,FastAPI,Intermediate,4 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-4
+CRS0237,FastAPI Masterclass 1,Microsoft Learn,FastAPI,Advanced,6 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-1
+CRS0238,FastAPI Masterclass 2,AWS Skill Builder,FastAPI,Advanced,8 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-2
+CRS0239,FastAPI Masterclass 3,LinkedIn Learning,FastAPI,Advanced,12 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-3
+CRS0240,FastAPI Masterclass 4,Kaggle Learn,FastAPI,Advanced,4 Weeks,Yes,Backend Developer,https://learn.example.com/fastapi-4
+CRS0241,Flask Masterclass 1,Coursera,Flask,Beginner,6 Weeks,Yes,Python Developer,https://learn.example.com/flask-1
+CRS0242,Flask Masterclass 2,Udemy,Flask,Beginner,8 Weeks,Yes,Python Developer,https://learn.example.com/flask-2
+CRS0243,Flask Masterclass 3,DataCamp,Flask,Beginner,12 Weeks,Yes,Python Developer,https://learn.example.com/flask-3
+CRS0244,Flask Masterclass 4,edX,Flask,Beginner,4 Weeks,Yes,Python Developer,https://learn.example.com/flask-4
+CRS0245,Flask Masterclass 1,Google,Flask,Intermediate,6 Weeks,Yes,Python Developer,https://learn.example.com/flask-1
+CRS0246,Flask Masterclass 2,IBM SkillsBuild,Flask,Intermediate,8 Weeks,Yes,Python Developer,https://learn.example.com/flask-2
+CRS0247,Flask Masterclass 3,Microsoft Learn,Flask,Intermediate,12 Weeks,Yes,Python Developer,https://learn.example.com/flask-3
+CRS0248,Flask Masterclass 4,AWS Skill Builder,Flask,Intermediate,4 Weeks,Yes,Python Developer,https://learn.example.com/flask-4
+CRS0249,Flask Masterclass 1,LinkedIn Learning,Flask,Advanced,6 Weeks,Yes,Python Developer,https://learn.example.com/flask-1
+CRS0250,Flask Masterclass 2,Kaggle Learn,Flask,Advanced,8 Weeks,Yes,Python Developer,https://learn.example.com/flask-2
+CRS0251,Flask Masterclass 3,Coursera,Flask,Advanced,12 Weeks,Yes,Python Developer,https://learn.example.com/flask-3
+CRS0252,Flask Masterclass 4,Udemy,Flask,Advanced,4 Weeks,Yes,Python Developer,https://learn.example.com/flask-4
+CRS0253,React Masterclass 1,DataCamp,React,Beginner,6 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-1
+CRS0254,React Masterclass 2,edX,React,Beginner,8 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-2
+CRS0255,React Masterclass 3,Google,React,Beginner,12 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-3
+CRS0256,React Masterclass 4,IBM SkillsBuild,React,Beginner,4 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-4
+CRS0257,React Masterclass 1,Microsoft Learn,React,Intermediate,6 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-1
+CRS0258,React Masterclass 2,AWS Skill Builder,React,Intermediate,8 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-2
+CRS0259,React Masterclass 3,LinkedIn Learning,React,Intermediate,12 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-3
+CRS0260,React Masterclass 4,Kaggle Learn,React,Intermediate,4 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-4
+CRS0261,React Masterclass 1,Coursera,React,Advanced,6 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-1
+CRS0262,React Masterclass 2,Udemy,React,Advanced,8 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-2
+CRS0263,React Masterclass 3,DataCamp,React,Advanced,12 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-3
+CRS0264,React Masterclass 4,edX,React,Advanced,4 Weeks,Yes,Full Stack Developer,https://learn.example.com/react-4
+CRS0265,MongoDB Masterclass 1,Google,MongoDB,Beginner,6 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-1
+CRS0266,MongoDB Masterclass 2,IBM SkillsBuild,MongoDB,Beginner,8 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-2
+CRS0267,MongoDB Masterclass 3,Microsoft Learn,MongoDB,Beginner,12 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-3
+CRS0268,MongoDB Masterclass 4,AWS Skill Builder,MongoDB,Beginner,4 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-4
+CRS0269,MongoDB Masterclass 1,LinkedIn Learning,MongoDB,Intermediate,6 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-1
+CRS0270,MongoDB Masterclass 2,Kaggle Learn,MongoDB,Intermediate,8 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-2
+CRS0271,MongoDB Masterclass 3,Coursera,MongoDB,Intermediate,12 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-3
+CRS0272,MongoDB Masterclass 4,Udemy,MongoDB,Intermediate,4 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-4
+CRS0273,MongoDB Masterclass 1,DataCamp,MongoDB,Advanced,6 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-1
+CRS0274,MongoDB Masterclass 2,edX,MongoDB,Advanced,8 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-2
+CRS0275,MongoDB Masterclass 3,Google,MongoDB,Advanced,12 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-3
+CRS0276,MongoDB Masterclass 4,IBM SkillsBuild,MongoDB,Advanced,4 Weeks,Yes,Backend Developer,https://learn.example.com/mongodb-4
+CRS0277,PostgreSQL Masterclass 1,Microsoft Learn,PostgreSQL,Beginner,6 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-1
+CRS0278,PostgreSQL Masterclass 2,AWS Skill Builder,PostgreSQL,Beginner,8 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-2
+CRS0279,PostgreSQL Masterclass 3,LinkedIn Learning,PostgreSQL,Beginner,12 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-3
+CRS0280,PostgreSQL Masterclass 4,Kaggle Learn,PostgreSQL,Beginner,4 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-4
+CRS0281,PostgreSQL Masterclass 1,Coursera,PostgreSQL,Intermediate,6 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-1
+CRS0282,PostgreSQL Masterclass 2,Udemy,PostgreSQL,Intermediate,8 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-2
+CRS0283,PostgreSQL Masterclass 3,DataCamp,PostgreSQL,Intermediate,12 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-3
+CRS0284,PostgreSQL Masterclass 4,edX,PostgreSQL,Intermediate,4 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-4
+CRS0285,PostgreSQL Masterclass 1,Google,PostgreSQL,Advanced,6 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-1
+CRS0286,PostgreSQL Masterclass 2,IBM SkillsBuild,PostgreSQL,Advanced,8 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-2
+CRS0287,PostgreSQL Masterclass 3,Microsoft Learn,PostgreSQL,Advanced,12 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-3
+CRS0288,PostgreSQL Masterclass 4,AWS Skill Builder,PostgreSQL,Advanced,4 Weeks,Yes,Backend Developer,https://learn.example.com/postgresql-4
+CRS0289,NLP Masterclass 1,LinkedIn Learning,NLP,Beginner,6 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-1
+CRS0290,NLP Masterclass 2,Kaggle Learn,NLP,Beginner,8 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-2
+CRS0291,NLP Masterclass 3,Coursera,NLP,Beginner,12 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-3
+CRS0292,NLP Masterclass 4,Udemy,NLP,Beginner,4 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-4
+CRS0293,NLP Masterclass 1,DataCamp,NLP,Intermediate,6 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-1
+CRS0294,NLP Masterclass 2,edX,NLP,Intermediate,8 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-2
+CRS0295,NLP Masterclass 3,Google,NLP,Intermediate,12 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-3
+CRS0296,NLP Masterclass 4,IBM SkillsBuild,NLP,Intermediate,4 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-4
+CRS0297,NLP Masterclass 1,Microsoft Learn,NLP,Advanced,6 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-1
+CRS0298,NLP Masterclass 2,AWS Skill Builder,NLP,Advanced,8 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-2
+CRS0299,NLP Masterclass 3,LinkedIn Learning,NLP,Advanced,12 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-3
+CRS0300,NLP Masterclass 4,Kaggle Learn,NLP,Advanced,4 Weeks,Yes,NLP Engineer,https://learn.example.com/nlp-4
+CRS0301,Transformers Masterclass 1,Coursera,Transformers,Beginner,6 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-1
+CRS0302,Transformers Masterclass 2,Udemy,Transformers,Beginner,8 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-2
+CRS0303,Transformers Masterclass 3,DataCamp,Transformers,Beginner,12 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-3
+CRS0304,Transformers Masterclass 4,edX,Transformers,Beginner,4 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-4
+CRS0305,Transformers Masterclass 1,Google,Transformers,Intermediate,6 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-1
+CRS0306,Transformers Masterclass 2,IBM SkillsBuild,Transformers,Intermediate,8 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-2
+CRS0307,Transformers Masterclass 3,Microsoft Learn,Transformers,Intermediate,12 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-3
+CRS0308,Transformers Masterclass 4,AWS Skill Builder,Transformers,Intermediate,4 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-4
+CRS0309,Transformers Masterclass 1,LinkedIn Learning,Transformers,Advanced,6 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-1
+CRS0310,Transformers Masterclass 2,Kaggle Learn,Transformers,Advanced,8 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-2
+CRS0311,Transformers Masterclass 3,Coursera,Transformers,Advanced,12 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-3
+CRS0312,Transformers Masterclass 4,Udemy,Transformers,Advanced,4 Weeks,Yes,NLP Engineer,https://learn.example.com/transformers-4
+CRS0313,LLMs Masterclass 1,DataCamp,LLMs,Beginner,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-1
+CRS0314,LLMs Masterclass 2,edX,LLMs,Beginner,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-2
+CRS0315,LLMs Masterclass 3,Google,LLMs,Beginner,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-3
+CRS0316,LLMs Masterclass 4,IBM SkillsBuild,LLMs,Beginner,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-4
+CRS0317,LLMs Masterclass 1,Microsoft Learn,LLMs,Intermediate,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-1
+CRS0318,LLMs Masterclass 2,AWS Skill Builder,LLMs,Intermediate,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-2
+CRS0319,LLMs Masterclass 3,LinkedIn Learning,LLMs,Intermediate,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-3
+CRS0320,LLMs Masterclass 4,Kaggle Learn,LLMs,Intermediate,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-4
+CRS0321,LLMs Masterclass 1,Coursera,LLMs,Advanced,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-1
+CRS0322,LLMs Masterclass 2,Udemy,LLMs,Advanced,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-2
+CRS0323,LLMs Masterclass 3,DataCamp,LLMs,Advanced,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-3
+CRS0324,LLMs Masterclass 4,edX,LLMs,Advanced,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/llms-4
+CRS0325,Prompt Engineering Masterclass 1,Google,Prompt Engineering,Beginner,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-1
+CRS0326,Prompt Engineering Masterclass 2,IBM SkillsBuild,Prompt Engineering,Beginner,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-2
+CRS0327,Prompt Engineering Masterclass 3,Microsoft Learn,Prompt Engineering,Beginner,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-3
+CRS0328,Prompt Engineering Masterclass 4,AWS Skill Builder,Prompt Engineering,Beginner,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-4
+CRS0329,Prompt Engineering Masterclass 1,LinkedIn Learning,Prompt Engineering,Intermediate,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-1
+CRS0330,Prompt Engineering Masterclass 2,Kaggle Learn,Prompt Engineering,Intermediate,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-2
+CRS0331,Prompt Engineering Masterclass 3,Coursera,Prompt Engineering,Intermediate,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-3
+CRS0332,Prompt Engineering Masterclass 4,Udemy,Prompt Engineering,Intermediate,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-4
+CRS0333,Prompt Engineering Masterclass 1,DataCamp,Prompt Engineering,Advanced,6 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-1
+CRS0334,Prompt Engineering Masterclass 2,edX,Prompt Engineering,Advanced,8 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-2
+CRS0335,Prompt Engineering Masterclass 3,Google,Prompt Engineering,Advanced,12 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-3
+CRS0336,Prompt Engineering Masterclass 4,IBM SkillsBuild,Prompt Engineering,Advanced,4 Weeks,Yes,Generative AI Engineer,https://learn.example.com/prompt-engineering-4
+CRS0337,Computer Vision Masterclass 1,Microsoft Learn,Computer Vision,Beginner,6 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-1
+CRS0338,Computer Vision Masterclass 2,AWS Skill Builder,Computer Vision,Beginner,8 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-2
+CRS0339,Computer Vision Masterclass 3,LinkedIn Learning,Computer Vision,Beginner,12 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-3
+CRS0340,Computer Vision Masterclass 4,Kaggle Learn,Computer Vision,Beginner,4 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-4
+CRS0341,Computer Vision Masterclass 1,Coursera,Computer Vision,Intermediate,6 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-1
+CRS0342,Computer Vision Masterclass 2,Udemy,Computer Vision,Intermediate,8 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-2
+CRS0343,Computer Vision Masterclass 3,DataCamp,Computer Vision,Intermediate,12 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-3
+CRS0344,Computer Vision Masterclass 4,edX,Computer Vision,Intermediate,4 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-4
+CRS0345,Computer Vision Masterclass 1,Google,Computer Vision,Advanced,6 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-1
+CRS0346,Computer Vision Masterclass 2,IBM SkillsBuild,Computer Vision,Advanced,8 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-2
+CRS0347,Computer Vision Masterclass 3,Microsoft Learn,Computer Vision,Advanced,12 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-3
+CRS0348,Computer Vision Masterclass 4,AWS Skill Builder,Computer Vision,Advanced,4 Weeks,Yes,Computer Vision Engineer,https://learn.example.com/computer-vision-4

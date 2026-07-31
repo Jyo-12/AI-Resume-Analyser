@@ -1,0 +1,201 @@
+Certification_ID,Certification_Name,Provider,Primary_Skill,Difficulty,Target_Role,Estimated_Duration,Certificate_Valid,Official_URL
+CERT0001,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/1
+CERT0002,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/2
+CERT0003,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/3
+CERT0004,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/4
+CERT0005,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/5
+CERT0006,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/6
+CERT0007,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/7
+CERT0008,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/8
+CERT0009,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/9
+CERT0010,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/10
+CERT0011,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/11
+CERT0012,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/12
+CERT0013,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/13
+CERT0014,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/14
+CERT0015,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/15
+CERT0016,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/16
+CERT0017,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/17
+CERT0018,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/18
+CERT0019,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/19
+CERT0020,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/20
+CERT0021,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/21
+CERT0022,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/22
+CERT0023,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/23
+CERT0024,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/24
+CERT0025,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/25
+CERT0026,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/26
+CERT0027,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/27
+CERT0028,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/28
+CERT0029,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/29
+CERT0030,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/30
+CERT0031,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/31
+CERT0032,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/32
+CERT0033,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/33
+CERT0034,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/34
+CERT0035,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/35
+CERT0036,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/36
+CERT0037,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/37
+CERT0038,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/38
+CERT0039,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/39
+CERT0040,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/40
+CERT0041,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/41
+CERT0042,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/42
+CERT0043,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/43
+CERT0044,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/44
+CERT0045,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/45
+CERT0046,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/46
+CERT0047,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/47
+CERT0048,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/48
+CERT0049,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/49
+CERT0050,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/50
+CERT0051,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/51
+CERT0052,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/52
+CERT0053,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/53
+CERT0054,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/54
+CERT0055,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/55
+CERT0056,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/56
+CERT0057,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/57
+CERT0058,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/58
+CERT0059,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/59
+CERT0060,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/60
+CERT0061,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/61
+CERT0062,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/62
+CERT0063,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/63
+CERT0064,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/64
+CERT0065,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/65
+CERT0066,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/66
+CERT0067,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/67
+CERT0068,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/68
+CERT0069,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/69
+CERT0070,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/70
+CERT0071,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/71
+CERT0072,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/72
+CERT0073,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/73
+CERT0074,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/74
+CERT0075,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/75
+CERT0076,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/76
+CERT0077,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/77
+CERT0078,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/78
+CERT0079,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/79
+CERT0080,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/80
+CERT0081,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/81
+CERT0082,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/82
+CERT0083,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/83
+CERT0084,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/84
+CERT0085,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/85
+CERT0086,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/86
+CERT0087,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/87
+CERT0088,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/88
+CERT0089,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/89
+CERT0090,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/90
+CERT0091,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/91
+CERT0092,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/92
+CERT0093,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/93
+CERT0094,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/94
+CERT0095,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/95
+CERT0096,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/96
+CERT0097,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/97
+CERT0098,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/98
+CERT0099,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/99
+CERT0100,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/100
+CERT0101,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/101
+CERT0102,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/102
+CERT0103,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/103
+CERT0104,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/104
+CERT0105,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/105
+CERT0106,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/106
+CERT0107,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/107
+CERT0108,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/108
+CERT0109,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/109
+CERT0110,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/110
+CERT0111,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/111
+CERT0112,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/112
+CERT0113,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/113
+CERT0114,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/114
+CERT0115,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/115
+CERT0116,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/116
+CERT0117,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/117
+CERT0118,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/118
+CERT0119,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/119
+CERT0120,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/120
+CERT0121,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/121
+CERT0122,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/122
+CERT0123,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/123
+CERT0124,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/124
+CERT0125,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/125
+CERT0126,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/126
+CERT0127,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/127
+CERT0128,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/128
+CERT0129,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/129
+CERT0130,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/130
+CERT0131,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/131
+CERT0132,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/132
+CERT0133,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/133
+CERT0134,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/134
+CERT0135,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/135
+CERT0136,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/136
+CERT0137,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/137
+CERT0138,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/138
+CERT0139,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/139
+CERT0140,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/140
+CERT0141,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/141
+CERT0142,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/142
+CERT0143,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/143
+CERT0144,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/144
+CERT0145,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/145
+CERT0146,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/146
+CERT0147,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/147
+CERT0148,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/148
+CERT0149,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/149
+CERT0150,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/150
+CERT0151,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/151
+CERT0152,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/152
+CERT0153,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/153
+CERT0154,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/154
+CERT0155,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/155
+CERT0156,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/156
+CERT0157,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/157
+CERT0158,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/158
+CERT0159,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/159
+CERT0160,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/160
+CERT0161,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/161
+CERT0162,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/162
+CERT0163,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/163
+CERT0164,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/164
+CERT0165,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/165
+CERT0166,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/166
+CERT0167,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/167
+CERT0168,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/168
+CERT0169,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/169
+CERT0170,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/170
+CERT0171,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/171
+CERT0172,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/172
+CERT0173,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/173
+CERT0174,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/174
+CERT0175,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/175
+CERT0176,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/176
+CERT0177,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/177
+CERT0178,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/178
+CERT0179,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/179
+CERT0180,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/180
+CERT0181,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/181
+CERT0182,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/182
+CERT0183,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/183
+CERT0184,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/184
+CERT0185,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/185
+CERT0186,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/186
+CERT0187,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/187
+CERT0188,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/188
+CERT0189,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/189
+CERT0190,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/190
+CERT0191,Google Data Analytics Professional Certificate,Google,Data Analytics,Beginner,Data Analyst,6 Months,Yes,https://certifications.example.com/google/191
+CERT0192,IBM Data Science Professional Certificate,IBM,Data Science,Beginner,Data Scientist,5 Months,Yes,https://certifications.example.com/ibm/192
+CERT0193,Microsoft Azure AI Engineer Associate,Microsoft,Azure AI,Advanced,AI Engineer,3 Months,Yes,https://certifications.example.com/microsoft/193
+CERT0194,AWS Certified Machine Learning Engineer,AWS,Machine Learning,Advanced,ML Engineer,4 Months,Yes,https://certifications.example.com/aws/194
+CERT0195,TensorFlow Developer Certificate,Google,Deep Learning,Intermediate,AI Engineer,2 Months,Yes,https://certifications.example.com/google/195
+CERT0196,Databricks Data Engineer Associate,Databricks,Data Engineering,Intermediate,Data Engineer,3 Months,Yes,https://certifications.example.com/databricks/196
+CERT0197,Tableau Desktop Specialist,Tableau,Tableau,Beginner,BI Developer,1 Month,Yes,https://certifications.example.com/tableau/197
+CERT0198,Microsoft Power BI Data Analyst,Microsoft,Power BI,Intermediate,BI Developer,2 Months,Yes,https://certifications.example.com/microsoft/198
+CERT0199,Oracle Database SQL Associate,Oracle,SQL,Beginner,Data Analyst,2 Months,Yes,https://certifications.example.com/oracle/199
+CERT0200,Docker Certified Associate,Docker,Docker,Intermediate,DevOps Engineer,2 Months,Yes,https://certifications.example.com/docker/200
